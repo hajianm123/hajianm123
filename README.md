@@ -1,23 +1,24 @@
-<h1 align="center">سلام! من محمد امین هستم 👋</h1>
+<h1 align="center">Hi there! I'm Mohammad Amin 👋</h1>
 
 <p align="center">
-💻 برنامه‌نویس | 🚀 عاشق ساخت پروژه‌های خلاقانه | 🎓 دانشجوی مهندسی کامپیوتر
+💻 Developer | 🚀 Passionate about creative projects | 🎓 Computer Engineering Student
 </p>
 
 ---
 
-### 🧠 درباره من:
+### 🧠 About Me:
 
-- 🎓 در حال تحصیل در رشته مهندسی کامپیوتر
-- 💼 در حال یادگیری و توسعه با Java, HTML, CSS, JavaScript
-- 🧩 علاقه‌مند به شبیه‌سازی، الگوریتم‌های greedy و backtracking
-- 🎯 هدفم ساخت اپلیکیشن‌های مفید و جذاب با طراحی زیباست
+- 🎓 I'm currently studying Computer Engineering  
+- 💼 Learning and developing with Kotlin, Java, HTML, CSS, and JavaScript  
+- 🧩 Interested in simulation, greedy algorithms, and backtracking  
+- 🎯 My goal is to build useful and attractive applications with beautiful design  
 
 ---
 
-### 🔧 تکنولوژی‌هایی که باهاشون کار کردم:
+### 🔧 Technologies I’ve worked with:
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,19 +27,19 @@
 
 ---
 
-### 📊 آمار گیت‌هاب من:
+### 📊 My GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hajianm123&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajianm123&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-### 📫 ارتباط با من:
+### 📫 Contact Me:
 
-- 📬 ایمیل: hajianm123@gmail.com
+- 📬 Email: hajianm123@gmail.com
 
 ---
 
-⭐️ ممنون که پروفایل منو دیدی! اگه دوست داشتی پروژه‌هامو ببین و فالو کن 😊
+⭐️ Thanks for visiting my profile! Feel free to check out my projects and give a follow 😊
