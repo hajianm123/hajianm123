@@ -1,8 +1,12 @@
-<h1 align="center">Hi there! I'm Mohammad Amin 👋</h1>
+<h1 align="center">
+  Hi there! I'm Mohammad Amin 👋  
+  <br/>
+  <img src="https://img.shields.io/badge/Android%20Studio-143?style=for-the-badge&logo=android-studio&logoColor=white"/>
+</h1>
 
 <!-- تایپ خودکار -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Passionate+Developer;Loves+Greedy+%26+Backtracking;Let's+build+great+stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Android+Developer;Loves+Greedy+%26+Backtracking;Let's+build+great+stuff!" alt="Typing SVG" />
 </h3>
 
 <!-- گیف مرکزی -->
@@ -15,9 +19,18 @@
 ### 🧠 About Me:
 
 - 🎓 I'm currently studying Computer Engineering  
-- 💼 Learning and developing with Kotlin, Java, HTML, CSS, and JavaScript  
+- 💼 Android Developer using Kotlin & Jetpack Compose  
 - 🧩 Interested in simulation, greedy algorithms, and backtracking  
 - 🎯 My goal is to build useful and attractive applications with beautiful design  
+
+---
+
+### 🤖 Android Development:
+
+- 💻 Building apps with Kotlin & Jetpack Compose  
+- 🎨 Using Material Design 3 and modern UI components  
+- 📦 Room, Retrofit, Coroutines, Firebase  
+- 🧪 MVVM architecture, unit testing, Git  
 
 ---
 
@@ -26,6 +39,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -45,16 +60,4 @@
 
 ### 📊 My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hajianm123&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajianm123&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-<!-- انیمیشن تزئینی موج -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
-
----
-
-⭐️ Thanks for visiting my profile! Feel free to check out my projects and give a follow 😊
+<p align=
