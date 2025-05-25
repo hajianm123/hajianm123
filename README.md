@@ -60,4 +60,16 @@
 
 ### 📊 My GitHub Stats:
 
-<p align=
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hajianm123&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajianm123&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<!-- انیمیشن تزئینی موج -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+
+---
+
+⭐️ Thanks for visiting my profile! Feel free to check out my projects and give a follow 😊
