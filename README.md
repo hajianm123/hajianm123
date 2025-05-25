@@ -53,7 +53,7 @@
 ---
 
 <!-- انیمیشن تزئینی موج -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave2.svg" alt="wave svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 
 ---
 
