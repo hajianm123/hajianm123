@@ -1,11 +1,13 @@
 <h1 align="center">Hi there! I'm Mohammad Amin 👋</h1>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BtMXdndHBpcHVmaDEzamh2dDc1bXRhOXloNTlpdG5pM2VpejN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7BEhPDqlTAz7iT3T4H/giphy.gif" alt="welcome gif" width="300"/>
-</p>
+<!-- تایپ خودکار -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Passionate+Developer;Loves+Greedy+%26+Backtracking;Let's+build+great+stuff!" alt="Typing SVG" />
+</h3>
 
+<!-- گیف مرکزی -->
 <p align="center">
-💻 Developer | 🚀 Passionate about creative projects | 🎓 Computer Engineering Student
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BtMXdndHBpcHVmaDEzamh2dDc1bXRhOXloNTlpdG5pM2VpejN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7BEhPDqlTAz7iT3T4H/giphy.gif" alt="cool gif" width="300" />
 </p>
 
 ---
@@ -31,18 +33,27 @@
 
 ---
 
+### 🌐 Connect with me:
+
+<p align="center">
+  <a href="mailto:hajianm123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/MohammadA1385"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://instagram.com/mohammadaminam85"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
 ### 📊 My GitHub Stats:
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hajianm123&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajianm123&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-### 📫 Contact Me:
-
-- 📬 Email: hajianm123@gmail.com
+<!-- انیمیشن تزئینی موج -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave2.svg" alt="wave svg" width="100%" />
 
 ---
 
