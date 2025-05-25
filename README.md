@@ -1,3 +1,7 @@
+
+![funny cat]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BtMXdndHBpcHVmaDEzamh2dDc1bXRhOXloNTlpdG5pM2VpejN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7BEhPDqlTAz7iT3T4H/giphy.gif))
+
+
 <h1 align="center">Hi there! I'm Mohammad Amin 👋</h1>
 
 <p align="center">
