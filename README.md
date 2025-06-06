@@ -3,7 +3,9 @@
   <br/>
   <img src="https://img.shields.io/badge/Android%20Studio-143?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </h1>
- ![Profile views](https://komarev.com/ghpvc/?username=hajianm123&color=blue)
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=hajianm123&color=blue" alt="Profile views"/>
+</h1>
 
 <!-- تایپ خودکار -->
 <h3 align="center">
