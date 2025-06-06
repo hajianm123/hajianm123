@@ -1,4 +1,5 @@
 <h1 align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=hajianm123&color=blue)
   Hi there! I'm Mohammad Amin 👋  
   <br/>
   <img src="https://img.shields.io/badge/Android%20Studio-143?style=for-the-badge&logo=android-studio&logoColor=white"/>
