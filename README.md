@@ -3,19 +3,10 @@
   <br/>
   <img src="https://img.shields.io/badge/Android%20Studio-143?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hajianm123&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile view counter"/>
-</p>
 
-<!-- تایپ خودکار -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Android+Developer;Loves+Greedy+%26+Backtracking;Let's+build+great+stuff!" alt="Typing SVG" />
 </h3>
-
-<!-- گیف مرکزی -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BtMXdndHBpcHVmaDEzamh2dDc1bXRhOXloNTlpdG5pM2VpejN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7BEhPDqlTAz7iT3T4H/giphy.gif" alt="cool gif" width="300" />
-</p>
 
 ---
 
